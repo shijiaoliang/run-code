@@ -1,0 +1,5 @@
+{
+  "model": "debug",
+  "address": ":8989",
+  "run_auth_token": "123456"
+}
