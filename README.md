@@ -54,7 +54,7 @@ run-code takes its configuration from environment variables.
         "script": "<?php echo 'Hello Kitty\n';"
     }------WebKitFormBoundary7MA4YWxkTrZu0gW--
 
-    ![index](https://gitee.com/shijiaoliang/src/raw/master/51cto/run-code.png)
+    ![image](https://gitee.com/shijiaoliang/src/raw/master/51cto/run-code.png)
 
 ## License
 
