@@ -55,6 +55,7 @@ run-code takes its configuration from environment variables.
     }------WebKitFormBoundary7MA4YWxkTrZu0gW--
 
     ![image](https://raw.githubusercontent.com/shijiaoliang/run-code/master/runtime/run-code.png)
+    ![流程图](https://raw.githubusercontent.com/ouqiang/gocron/master/assets/screenshot/scheduler.png)
 
 ## License
 
