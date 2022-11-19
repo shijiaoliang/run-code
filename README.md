@@ -1,7 +1,5 @@
 # Run-code
 
-http://www.51cto.com
-
 run-code is fast and pretty used for online judge in Go.
 
 ## Environment variables
